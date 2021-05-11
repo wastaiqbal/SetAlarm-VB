@@ -1,0 +1,14 @@
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\bin\Debug\SetAlarm.exe
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\bin\Debug\SetAlarm.pdb
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\bin\Debug\SetAlarm.xml
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\bin\Debug\Interop.WMPLib.dll
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\bin\Debug\AxInterop.WMPLib.dll
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\obj\x86\Debug\Interop.WMPLib.dll
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\obj\x86\Debug\SetAlarm.vbproj.ResolveComReference.cache
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\obj\x86\Debug\SetAlarm.Form1.resources
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\obj\x86\Debug\SetAlarm.Resources.resources
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\obj\x86\Debug\SetAlarm.vbproj.GenerateResource.Cache
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\obj\x86\Debug\SetAlarm.exe
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\obj\x86\Debug\SetAlarm.xml
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\SetAlarm\SetAlarm\obj\x86\Debug\SetAlarm.pdb
